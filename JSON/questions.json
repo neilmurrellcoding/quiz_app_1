@@ -1,0 +1,202 @@
+[
+  {
+    "question": "'Heisenberg' is the criminal pseudonym of which TV villain?",
+    "choice1": "Camino Del Rio (Ozark)",
+    "choice2": "Tony Soprano (The Sopranos)",
+    "choice3": "Walter White (Breaking Bad)",
+    "choice4": "Daniel Rayburn (Bloodline)",
+    "answer": 3
+  },
+  {
+    "question": "Which author wrote books featuring characters called Oliver, David, Nicholas, Edwin, Barnaby, and Martin?",
+    "choice1": "Jane Austen",
+    "choice2": "William Thackeray",
+    "choice3": "Charles Dickens",
+    "choice4": "Mark Twain",
+    "answer": 3
+  },
+  {
+    "question": "Carmine Falcone is an antagonist of which comic book character?",
+    "choice1": "Batman",
+    "choice2": "Wolverine",
+    "choice3": "Captain America",
+    "choice4": "Billy Butcher",
+    "answer": 1
+  },
+  {
+    "question": "With 260 goals, who is the Premier League's all-time top scorer?",
+    "choice1": "Wayne Rooney",
+    "choice2": "Ian Rush",
+    "choice3": "Teddy Sheringham",
+    "choice4": "Alan Shearer",
+    "answer": 4
+  },
+  {
+    "question": "In which country would you find Machu Pichu?",
+    "choice1": "Colombia",
+    "choice2": "Peru",
+    "choice3": "Chile",
+    "choice4": "Guyana",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following was NOT a codename for a beach Allied forces landed on during D-Day?",
+    "choice1": "Silver",
+    "choice2": "Omaha",
+    "choice3": "Juno",
+    "choice4": "Utah",
+    "answer": 1
+  },
+  {
+    "question": "What was the name of the atomic bomb that was dropped on Hiroshima?",
+    "choice1": "Little Girl",
+    "choice2": "Fat Man",
+    "choice3": "Old Man",
+    "choice4": "Little Boy",
+    "answer": 4
+  },
+  {
+    "question": "Which adult cartoon comedy series follows the misadventures of four young boys from Colorado?",
+    "choice1": "Rick and Morty",
+    "choice2": "South Park",
+    "choice3": "Big Mouth",
+    "choice4": "Family Guy",
+    "answer": 2
+  },
+  {
+    "question": "Which musical about one of America's Founding Fathers won 11 Tony Awards in 2015?",
+    "choice1": "Washington",
+    "choice2": "Hamilton",
+    "choice3": "Franklin",
+    "choice4": "Jefferson",
+    "answer": 2
+  },
+  {
+    "question": "In Astronomy, what is the definition of an Astronomical Unit?",
+    "choice1": "The distance light can travel in 60 seconds",
+    "choice2": "The distance between Earth and the moon",
+    "choice3": "The distance between Earth and the Sun",
+    "choice4": "The distance between Earth and Proxima Centauri (our closest extrasolar star)",
+    "answer": 3
+  },
+  {
+    "question": "What do Sissy Spacek, Tim Robbins, Tom Hanks, Ewan McGregor, Kathy Bates, and Jack Nicholson have in common?",
+    "choice1": "They've all won Best Actor/Actress at least once",
+    "choice2": "They've all starred in adaptations of Stephen King books",
+    "choice3": "They've all co-starred in at least one movie alongside Kevin Bacon",
+    "choice4": "At least one of their children is also an actor or actress ",
+    "answer": 2
+  },
+  {
+    "question": "When is VE Day?",
+    "choice1": "The 7th of March",
+    "choice2": "The 14th of April",
+    "choice3": "The 22nd of August",
+    "choice4": "The 8th of May",
+    "answer": 4
+  },
+  {
+    "question": "Along with Spain and Franch, what is the other country to have both Atlantic and Mediterranean coastlines?",
+    "choice1": "Egypt",
+    "choice2": "Syria",
+    "choice3": "Morocco",
+    "choice4": "Portugal",
+    "answer": 3
+  },
+  {
+    "question": "In which World Cup did Diego Maradona score his infamous 'Hand of God' goal?",
+    "choice1": "Mexico, 1986",
+    "choice2": "Spain, 1982",
+    "choice3": "Italy, 1990",
+    "choice4": "Argentina, 1978",
+    "answer": 1
+  },
+  {
+    "question": "English physician Edward Jenner is famous for creating the first...?",
+    "choice1": "Antiseptic",
+    "choice2": "Vaccine",
+    "choice3": "Antibiotic",
+    "choice4": "Antivenom",
+    "answer": 2
+  },
+  {
+    "question": "'A Lannister always pays his debts' is a common saying in which Fantasy TV show?",
+    "choice1": "The Expanse",
+    "choice2": "Game of Thrones",
+    "choice3": "Carnival Row",
+    "choice4": "His Dark Materials",
+    "answer": 2
+  },
+  {
+    "question": "Jack Dorsey is the CEO of which social media giant?",
+    "choice1": "Twitter",
+    "choice2": "Instagram",
+    "choice3": "LinkedIn",
+    "choice4": "Snapchat",
+    "answer": 1
+  },
+  {
+    "question": "'By the pricking of my thumbs, something wicked this way comes' is a quote from which Shakespeare play'?",
+    "choice1": "MacBeth",
+    "choice2": "Othello",
+    "choice3": "Hamlet",
+    "choice4": "King Lear",
+    "answer": 1
+  },
+  {
+    "question": "Twenty20 is a variety of which sport?",
+    "choice1": "Hockey",
+    "choice2": "Rugby",
+    "choice3": "Cricket",
+    "choice4": "Snooker",
+    "answer": 3
+  },
+  {
+    "question": "Mervyn Peake is known for which series of Fantasy novels?",
+    "choice1": "A Song of Ice and Fire",
+    "choice2": "The Wheel of Time",
+    "choice3": "The Dresden Files",
+    "choice4": "Gormenghast",
+    "answer": 4
+  },
+  {
+    "question": "Which of these Jimmy Hendrix songs was originally a hit for Bob Dylan?",
+    "choice1": "Foxy Lady",
+    "choice2": "Purple Haze",
+    "choice3": "All Along the Watchtower",
+    "choice4": "Hey Joe",
+    "answer": 3
+  },
+  {
+    "question": "Which word comes next in this series: Stone, Secrets, Prisoner, Goblet, Phoenix, ... ?",
+    "choice1": "King",
+    "choice2": "Queen",
+    "choice3": "Princess",
+    "choice4": "Prince",
+    "answer": 4
+  },
+  {
+    "question": "Which American President was the first to be impeached?",
+    "choice1": "Bill Clinton",
+    "choice2": "Andrew Johnson",
+    "choice3": "Richard Nixon",
+    "choice4": "Donald Trump",
+    "answer": 2
+  },
+  {
+    "question": "How many James Bond films have there been?",
+    "choice1": "16",
+    "choice2": "20",
+    "choice3": "26",
+    "choice4": "34",
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the shortest book in the Bible?",
+    "choice1": "Job",
+    "choice2": "Esther",
+    "choice3": "Ruth",
+    "choice4": "Obadiah",
+    "answer": 4
+  }
+]
